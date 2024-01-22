@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AbderahmaneT
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React js
-- 📫 How to reach me :
-instagram:_no_va._
+- Abderahmane Talbi
+- Web/App developer 
+- Using React js/native tailwind
+- https://linktr.ee/Abderahmane_Talbi
 
 
 
